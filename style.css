@@ -17,6 +17,8 @@ body {
   padding: 20px;
   background: #000;
   width: 105%;
+  position: absolute;
+
 }
 
 .navbar a {
