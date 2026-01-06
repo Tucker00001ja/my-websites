@@ -16,6 +16,7 @@ body {
   justify-content: space-between;
   padding: 20px;
   background: #000;
+  width: 105%;
 }
 
 .navbar a {
