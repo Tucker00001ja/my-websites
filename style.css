@@ -16,7 +16,7 @@ body {
   justify-content: space-between;
   padding: 20px;
   background: #000;
-  width: 105%;
+  width: 100%;
   position: absolute;
 
 }
@@ -100,7 +100,7 @@ footer {
   text-align: center;
   padding: 15px;
   color: #fff;
-  width: 105%;
+  width: 100%;
 }
 .logo{
   position: relative;
@@ -112,7 +112,7 @@ footer {
 }
 .about_img{
   height: 150%;
-  width: 105%;
+  width: 100%;
 }
 .nam{
   position: relative;
