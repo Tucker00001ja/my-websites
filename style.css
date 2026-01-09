@@ -100,6 +100,7 @@ footer {
   text-align: center;
   padding: 15px;
   color: #fff;
+  width: 105%;
 }
 .logo{
   position: relative;
@@ -111,7 +112,7 @@ footer {
 }
 .about_img{
   height: 150%;
-  width: 100%;
+  width: 105%;
 }
 .nam{
   position: relative;
@@ -119,5 +120,10 @@ footer {
   right: 10px;
 }
 .nav{
-  border-left: 5px #fff solid;
+  position: relative;
+  border-left: 3px #fff solid;
+}
+.nam{
+  position: relative;
+  left: -10px;
 }
