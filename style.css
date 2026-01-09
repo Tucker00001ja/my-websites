@@ -13,11 +13,11 @@ body {
 
 .navbar {
   display: flex;
-  justify-content: space-between;
   padding: 20px;
   background: #000;
   width: 100%;
   position: absolute;
+  
 
 }
 
@@ -126,4 +126,8 @@ footer {
 .nam{
   position: relative;
   left: -10px;
+}
+.se{
+  position: relative;
+  left: 18px;
 }
